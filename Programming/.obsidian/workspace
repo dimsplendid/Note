@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "900724faf4aa535f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f80121e03c4c6edd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Haystack annotation tool.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b0c8a3c23fd454b",
+    "type": "split",
+    "children": [
+      {
+        "id": "96b2312eb2c10006",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7994dcc6ebb6f834",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "499ad95c836d7e07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 162.50868225097656
+  },
+  "right": {
+    "id": "c1692f45148eb395",
+    "type": "split",
+    "children": [
+      {
+        "id": "5502f8ca28998edb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4019bb3ea00e4ff6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Haystack annotation tool.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f80121e03c4c6edd",
+  "lastOpenFiles": [
+    "未命名.md",
+    "Git.md",
+    "numba.md",
+    "等於和 is 的差異.md"
+  ]
+}
