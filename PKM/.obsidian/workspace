@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Anki.md",
+            "file": "CDN.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki.md",
+                "file": "CDN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,13 @@
   },
   "active": "3895e25d8799270c",
   "lastOpenFiles": [
-    "Anki.md",
-    "未命名.md"
+    "未命名.md",
+    "黏彈性.md",
+    "科學人知識庫.md",
+    "Trello.md",
+    "Obsidian.md",
+    "markdown.md",
+    "hackmd.md",
+    "Anki.md"
   ]
 }
