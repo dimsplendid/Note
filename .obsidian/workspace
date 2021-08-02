@@ -1,32 +1,29 @@
 {
   "main": {
-    "id": "69a53398dc0c8e51",
+    "id": "d78ba6aa3f2cb1a2",
     "type": "split",
     "children": [
       {
-        "id": "3895e25d8799270c",
+        "id": "d38e41e9f8b5d77a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CDN.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e2341dbd96220e4f",
+    "id": "0cd649c3eef40718",
     "type": "split",
     "children": [
       {
-        "id": "d979ef2fd4ffc699",
+        "id": "853adf377b7219bb",
         "type": "tabs",
         "children": [
           {
-            "id": "0f314978e126921a",
+            "id": "b5bfc36a775ecd1c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +31,7 @@
             }
           },
           {
-            "id": "cfe8f89ae85a2b88",
+            "id": "57dfbd7eb06610b5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,20 +52,19 @@
     "width": 300
   },
   "right": {
-    "id": "d2615e35595e491c",
+    "id": "51caee4e8bcc802d",
     "type": "split",
     "children": [
       {
-        "id": "f28b0206270abd47",
+        "id": "a8c846c311511b49",
         "type": "tabs",
         "children": [
           {
-            "id": "64516cf02deab25f",
+            "id": "f1248d50de503db4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CDN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,16 +82,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3895e25d8799270c",
+  "active": "d38e41e9f8b5d77a",
   "lastOpenFiles": [
-    "CDN.md",
-    "未命名.md",
-    "黏彈性.md",
-    "科學人知識庫.md",
-    "Trello.md",
-    "Obsidian.md",
-    "markdown.md",
-    "hackmd.md",
-    "Anki.md"
+    "PKM/Anki.md"
   ]
 }
