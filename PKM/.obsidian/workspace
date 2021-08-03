@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CDN.md",
+            "file": "科學人知識庫.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CDN.md",
+                "file": "科學人知識庫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "3895e25d8799270c",
   "lastOpenFiles": [
-    "CDN.md",
-    "未命名.md",
-    "黏彈性.md",
     "科學人知識庫.md",
+    "未命名.md",
+    "LXC.md",
+    "黏彈性.md",
     "Trello.md",
     "Obsidian.md",
     "markdown.md",
