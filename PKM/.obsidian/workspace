@@ -7,11 +7,8 @@
         "id": "3895e25d8799270c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "科學人知識庫.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科學人知識庫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +84,15 @@
   },
   "active": "3895e25d8799270c",
   "lastOpenFiles": [
-    "科學人知識庫.md",
+    "藍色 CLC 反射率低下問題(at_DMS).md",
+    "膽固醇液晶波長反射率關係.md",
     "未命名.md",
+    "VHR.md",
+    "為什麼疫苗二期成功，三期失敗？.md",
+    "科學人知識庫.md",
     "LXC.md",
     "黏彈性.md",
     "Trello.md",
-    "Obsidian.md",
-    "markdown.md",
-    "hackmd.md",
-    "Anki.md"
+    "Obsidian.md"
   ]
 }
