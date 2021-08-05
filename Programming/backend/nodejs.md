@@ -1,4 +1,4 @@
-using [[python]]
+using [[backend/python]]
 $$
 1+1
 $$
