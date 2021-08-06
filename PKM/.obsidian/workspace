@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3895e25d8799270c",
+        "id": "ed42d9aab90000de",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CLC 驅動不超過 30 V 理由.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CLC 驅動不超過 30 V 理由.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3895e25d8799270c",
+  "active": "ed42d9aab90000de",
   "lastOpenFiles": [
-    "藍色 CLC 反射率低下問題(at_DMS).md",
+    "CLC 驅動不超過 30 V 理由.md",
     "膽固醇液晶波長反射率關係.md",
     "未命名.md",
+    "CLC 反射率量測.md",
+    "藍色 CLC 反射率低下問題(at_DMS).md",
     "VHR.md",
     "為什麼疫苗二期成功，三期失敗？.md",
     "科學人知識庫.md",
     "LXC.md",
-    "黏彈性.md",
-    "Trello.md",
-    "Obsidian.md"
+    "黏彈性.md"
   ]
 }
