@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "backend/express_ts.md",
-            "mode": "preview"
+            "file": "Pipeline.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,9 +68,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/express_ts.md",
+                "file": "Pipeline.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -78,21 +78,32 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "be8af9de63aec5fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "f80121e03c4c6edd",
   "lastOpenFiles": [
+    "未命名.md",
     "backend/express_ts.md",
     "backend/express.md",
     "backend/未命名.md",
     "Using Python scripts in Node.js server.md",
-    "未命名.md",
     "Preprocessing data.md",
     "Publish Website - Github.md",
     "Git.md",
