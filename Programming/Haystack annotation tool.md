@@ -1,5 +1,4 @@
 # Haystack annotation tool
-#python 
 #deep-learning
 #transformer
 #QA
