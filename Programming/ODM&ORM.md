@@ -1,2 +1,2 @@
-ORM(Object Relational Mapping) -> SQL-Based
-ODM(Object Document Mapping) -> No-SQL
+[[ORM]](Object Relational Model) -> SQL-Based
+[[ODM]](Object Data Model) -> No-SQL

@@ -2,5 +2,6 @@
 #python 
 [[python]]
 ```python
+import numpy as np
 np.round(num, precision)
 ```
