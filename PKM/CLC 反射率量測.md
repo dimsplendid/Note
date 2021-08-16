@@ -1,4 +1,4 @@
-# CLC 反射率量測
+# [[CLC]] 反射率量測
 #INX 
 ![[image (1).png]]
 ref: 秉均
