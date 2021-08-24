@@ -1,2 +1,2 @@
-# Capital Variable in Python
+# Capital Variable in [[Python]]
 #python 
