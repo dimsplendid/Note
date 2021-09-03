@@ -30,3 +30,7 @@ The tutorial in [express](https://developer.mozilla.org/zh-TW/docs/Learn/Server-
   2. Read
   3. Update
   4. Delete
+
+```ad-note
+The string in sqlite is using single quote like `'some text'`
+```

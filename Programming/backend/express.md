@@ -10,7 +10,10 @@ date updated: '2021-08-24T11:27:09+08:00'
 ## route
 
 The route is the path follow address. Just like the hyperlink of html file. express uisng route to maintain the serve of sites
-
+```ad-note
+More succcinct, URL handling code.
+[Express Tutorial Part 4: Routes and controllers - Learn web development | MDN (mozilla.org)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
+```
 ```javascript
 import express from 'express'
 
